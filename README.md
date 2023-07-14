@@ -10,7 +10,7 @@ include in the password (e.g., uppercase letters,
 lowercase letters, numbers, symbols).
 
 It handle and display appropriate error messages for
-invalid inputs, such as a length less than 1 or no
+invalid inputs, such as a length less than or equal to 1 or no
 character types selected.
 
 Generated passwords are strong and meet common security guidelines (e.g., a minimum length, inclusion of
